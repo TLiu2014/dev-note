@@ -22,11 +22,15 @@ As a full stack dev by May 2019
 
 ## Front End
 ### Angular
+* [Angular](https://angular.io/)
+* [Quickstart](https://angular.io/guide/quickstart)
+* [Angular CLI](https://cli.angular.io/)
 * [Angular Material](https://material.angular.io/components/categories)
 * [flex-layout](https://github.com/angular/flex-layout)
 * [flex-layout Wiki](https://github.com/angular/flex-layout/wiki)
 
 ### React
+* [create-react-app](https://github.com/facebook/create-react-app)
 * [React Bootstrap](https://react-bootstrap.github.io/components/alerts)
 
 ## Back End
