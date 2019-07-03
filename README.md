@@ -33,6 +33,9 @@ As a full stack dev by May 2019
 * [create-react-app](https://github.com/facebook/create-react-app)
 * [React Bootstrap](https://react-bootstrap.github.io/components/alerts)
 
+### CSS
+* [Instant Eyedropper (color picker)](http://instant-eyedropper.com/)
+
 ## Back End
 ### API
 * [Swagger Editor](https://editor.swagger.io/)
